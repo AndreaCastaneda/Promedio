@@ -1,0 +1,22 @@
+Pablo esta próximo a graduarse, sin embargo se encuentra en sus últimas materias.
+Él desea terminar la carrera con la posibilidad de obtener la mención honorífica, para ello es imperativo que tenga un promedio final de 9.5 
+y presentar un excelente examen profesional.
+Actualmente se encuentra cursando sus últimas 4 materias y tiene un promedio final de 9.3.
+Los maestros de Pablo le han entregado 3 de sus 4 calificaciones. Sacó 8 en Antenas y Radiación, 7 en Redes Convergentes y 9 en Comunicaciones Móviles.
+La calificación que le falta es de Seminario de Titluación.
+Ayuda a Pablo a crear un programa en el que pueda meter sus calificaciones y le diga si obtendrá el promedio necesario para poder ser acredor
+a la mención honorífica que desea.
+
+Entrada
+Un entero que indique la calificación que sacó en el Seminario de Titulación.
+
+Salida
+Una concatenación de caracteres, que debe estar de la siguiente forma:
+"Pablo será [o no] candidato a la mención honorífica porqué su calificación en Seminario de Titulación fue de [calificación]"
+
+Ejemplo
+Entrada
+9
+
+Salida
+Pablo será candidato a la mención honorífica porqué su calificación en Seminario de Titulación fue de 9
